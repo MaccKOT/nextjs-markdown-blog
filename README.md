@@ -1,3 +1,7 @@
+# [Static Blog With Next.js and Markdown](https://www.youtube.com/watch?v=MrjeefD8sac)
+
+Original code repo: [https://github.com/bradtraversy/next-markdown-blog](https://github.com/bradtraversy/next-markdown-blog)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
