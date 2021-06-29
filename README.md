@@ -2,7 +2,7 @@
 
 Original code repo: [https://github.com/bradtraversy/next-markdown-blog](https://github.com/bradtraversy/next-markdown-blog)
 
-Live DEMO: []()
+Live DEMO: [https://tender-franklin-71073b.netlify.app/](https://tender-franklin-71073b.netlify.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
